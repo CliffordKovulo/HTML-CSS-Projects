@@ -1,0 +1,35 @@
+body {
+    background-color: #d6e2f0; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+    margin: 0;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    height: 40%;
+    width: 40%;
+    margin-top: 0;
+}
+
+.img {
+    width: 230%; 
+    border-radius: 5%;
+}
+
+.parent {
+    background-color: white;
+    width: 270px; 
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px; 
+    align-items: center;
+    text-align: center;
+    box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    padding-bottom: 20px; 
+}
