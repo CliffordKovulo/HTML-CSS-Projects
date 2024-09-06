@@ -1,3 +1,18 @@
+Day 1 project
+
+![image](https://github.com/user-attachments/assets/a64026a1-3f7e-4dac-b432-001536e2bcb8)
+In this project, I built a simple QR code component using HTML and CSS, which allows users to scan a code for accessing Frontend Mentor to improve their coding skills.
+
+HTML Structure:
+I began by creating the basic structure with a div container called .parent to wrap all content. Inside, I placed two main sections:
+
+Image Section (.attribution): This contains the QR code image (image-qr-code.png) that users can scan.
+Text Section (.child): Below the image, I added two paragraphs. One is a bold, strong message encouraging users to improve their front-end skills, and the other provides more detail in a smaller, grey font, describing what the QR code leads to.
+CSS Styling:
+The page’s background color is set to a soft blue (#d6e2f0), and I used flexbox to center the content both vertically and horizontally on the screen. The .parent container has a white background, rounded corners, and a box-shadow effect to give it a clean, card-like appearance. The QR code image has a large width relative to the container and slightly rounded corners for visual appeal. I also ensured that the component is responsive by limiting the container width to 270px and aligning everything to the center.
+
+This simple design provides an effective way to display the QR code while maintaining a professional and clean look.
+
 Task 1
 
 ![image](https://github.com/user-attachments/assets/3a692a73-36f0-4143-b18b-bfe210d127c7)
